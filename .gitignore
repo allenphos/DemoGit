@@ -1,0 +1,11 @@
+# Ignore Python bytecode files
+*.pyc
+# Ignore log files
+*.log
+# Ignore directories containing compiled files
+build/
+dist/
+# Ignore all text files
+*.txt
+# ignore specific file ( customise to particular type of file
+filename.extension
